@@ -1,0 +1,5 @@
+{
+  "name": "Ratatui Architect",
+  "description": "An AI-powered assistant for building Rust Terminal User Interfaces (TUI) using the Ratatui library. Get code examples, explanations, and layout guides.",
+  "requestFramePermissions": []
+}
